@@ -1,6 +1,6 @@
 {
   "name": "just-the-words",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Isolate the words from a given body of text.",
   "main": "index.min.js",
   "repository": "https://github.com/seanmcp/just-the-words",
