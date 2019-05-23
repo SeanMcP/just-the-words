@@ -1,6 +1,6 @@
 # just-the-words
 
-Isolates the words from a given block of text.
+Isolate the words from a given block of text.
 
 ## Examples
 
