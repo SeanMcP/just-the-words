@@ -1,5 +1,7 @@
 # just-the-words
 
+[![npm](https://img.shields.io/npm/v/just-the-words.svg)](https://npmjs.com/package/just-the-words) [![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/just-the-words.svg)](https://npmjs.com/package/just-the-words) [![npm](https://img.shields.io/npm/dt/just-the-words.svg)](https://npmjs.com/package/just-the-words)
+
 Isolate the words from a given block of text.
 
 ## Examples
