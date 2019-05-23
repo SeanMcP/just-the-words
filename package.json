@@ -1,0 +1,21 @@
+{
+  "name": "just-the-words",
+  "version": "0.1.0",
+  "description": "Isolate the words from a given body of text.",
+  "main": "index.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "uglifyjs --mangle --compress --output index.min.js -- index.js"
+  },
+  "keywords": [
+    "words"
+  ],
+  "author": "Sean McPherson <sean@seanmcp.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "uglify-js": "^3.5.15"
+  },
+  "files": [
+    "index.min.js"
+  ]
+}
